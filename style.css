@@ -1,10 +1,11 @@
 .calculator {
-    width: 300px;
-    margin: 100px auto;
+    width: 250px;
+    margin: 50px auto;
     text-align: center;
     background-color: #adbfd8;
     border-radius: 20px;
-    padding: 20px;
+    padding: 10px;
+    height: 500px;
     box-shadow: 10px 10px 20px #b8b8b8, -10px -10px 20px #ffffff;
 }
 
@@ -20,8 +21,8 @@ input[type="text"] {
 }
 
 .buttons button {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     margin: 10px;
     font-size: 24px;
     border: none;
